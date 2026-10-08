@@ -1,6 +1,6 @@
 cask "kvotar" do
-  version "0.3.0-beta.10,19"
-  sha256 "d6d882ad672092b48ec8afda62500a92258d8d9ca7428f9852a1f4e8557565c9"
+  version "0.3.0-beta.11,20"
+  sha256 "29b7de01a7cedb3ece326d106e2a48413914a06123c0c842555f547744d5ddcb"
 
   url "https://updates.kvotar.com/builds/Kvotar-#{version.csv.first}-build.#{version.csv.second}-macos-universal.zip"
   name "Kvotar"
